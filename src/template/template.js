@@ -1,19 +1,19 @@
 import readFile from '../fileReader.js';
 
-const DAY: string = 'template';
-const input: number[] = readFile(DAY);
+const DAY = 'template';
+const input = readFile(DAY);
 
 // Part 1
 // ======
 
-const part1 = (input: number[]) => {
+const part1 = input => {
   return input;
 };
 
 // Part 2
 // ======
 
-const part2 = (input: number[]) => {
+const part2 = input => {
   return input;
 };
 
